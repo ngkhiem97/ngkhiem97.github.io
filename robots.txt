@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ngkhiem97.github.io/ngkhiem97.github.io/sitemap.xml

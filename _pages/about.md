@@ -18,8 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a highly motivated individual with experience in research and software engineering. Currently, I am a Teaching Assistant and Graduate Research Assistant at Lehigh University, where I am pursuing a PhD in Computer Science. In this role, I have gained extensive experience in teaching and conducting research, which has allowed me to develop strong problem-solving and analytical skills.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to Lehigh University, I earned a Master's degree in Data Science from Drexel University and worked as a Graduate Research Assistant and Digital Development Camp Counselor. During this time, I gained valuable experience in data analysis and programming, as well as in leadership and mentorship.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In addition to my academic and research experience, I also have experience working as a Software Engineer at Contemi Solutions in Ho Chi Minh City, Vietnam. In this role, I developed my skills in software development and project management, working on a variety of projects to support clients in the finance industry.
+
+My undergraduate degree in Electrical Engineering and Information Technology from Vietnamese-German University rounds out my technical expertise. In this program, I also participated in extracurricular activities, including the VGU Football Club and VGU Robotics and Electronics Club.
+
+Overall, my diverse background in research, software engineering, and computer science, coupled with my passion for learning and problem-solving, make me a strong candidate for roles in these fields.
